@@ -1,0 +1,20 @@
+[2022-05-28 07:32:29.518] [exthost] [info] Extension host with pid 4137 started
+[2022-05-28 07:32:29.532] [exthost] [info] Lock '/home/vmw19/.vscode-server/data/User/workspaceStorage/026d7b4c3360dfc8dd03d082b94151ea/vscode.lock': Lock acquired.
+[2022-05-28 07:32:29.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-28 07:32:29.564] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-28 07:32:29.569] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-28 07:32:29.600] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-28 07:32:29.668] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-28 07:32:29.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-28 07:32:29.764] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-28 07:32:29.768] [exthost] [info] Eager extensions activated
+[2022-05-28 07:32:30.321] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vmw19/mynewrepo/app/__init__.py' is in submodule 'mynewrepo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-05-28 07:32:30.321] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vmw19/mynewrepo/app/__init__.py' is in submodule 'mynewrepo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-05-28 07:32:30.321] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vmw19/mynewrepo/app/__init__.py' is in submodule 'mynewrepo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-05-28 07:32:30.321] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vmw19/mynewrepo/app/__init__.py' is in submodule 'mynewrepo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-05-28 07:32:30.321] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vmw19/mynewrepo/app/__init__.py' is in submodule 'mynewrepo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-05-28 07:32:30.321] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vmw19/mynewrepo/app/__init__.py' is in submodule 'mynewrepo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-05-28 07:32:30.321] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vmw19/mynewrepo/app/__init__.py' is in submodule 'mynewrepo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-05-28 07:32:30.321] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vmw19/mynewrepo/app/__init__.py' is in submodule 'mynewrepo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-05-28 07:32:30.321] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vmw19/mynewrepo/app/__init__.py' is in submodule 'mynewrepo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-05-28 07:32:30.321] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/vmw19/mynewrepo/app/__init__.py' is in submodule 'mynewrepo'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}

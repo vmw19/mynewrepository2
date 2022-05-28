@@ -8,3 +8,10 @@ User belongs to experiment group 'jupyterEnhancedDataViewer'
 info 0:3:44.948: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
 info 0:3:45.298: Process Execution: > ~/mynewrepo/venv/bin/python -m pip list
 > ~/mynewrepo/venv/bin/python -m pip list
+info 7:32:16.779: Shutting down notebooks for 7df445f9-6159-4b08-9be9-5bb7bbd90c70
+info 7:32:16.779: Disposing HostJupyterExecution c0102eb2-f6ca-4a5e-a773-086715996b81
+info 7:32:16.779: Disposing super HostJupyterExecution c0102eb2-f6ca-4a5e-a773-086715996b81
+info 7:32:16.785: Disposing HostJupyterExecution c0102eb2-f6ca-4a5e-a773-086715996b81
+info 7:32:16.785: Finished disposing HostJupyterExecution  c0102eb2-f6ca-4a5e-a773-086715996b81
+info 7:32:16.793: Cleaning up server cache c0102eb2-f6ca-4a5e-a773-086715996b81
+info 7:32:16.793: Finished disposing HostJupyterExecution  c0102eb2-f6ca-4a5e-a773-086715996b81

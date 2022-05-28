@@ -30,3 +30,9 @@ Notebook support: Legacy
 [Info  - 12:13:03 AM] (2079) Auto-excluding /home/vmw19/mynewrepo/venv
 [Info  - 12:13:03 AM] (2079) Auto-excluding /home/vmw19/venv
 [Info  - 12:13:03 AM] (2079) Found 13 source files
+[Info  - 12:21:51 AM] (2079) Searching for source files
+[Info  - 12:21:51 AM] (2079) Auto-excluding /home/vmw19/Code/SDGKU/user_crud/venv
+[Info  - 12:21:51 AM] (2079) Auto-excluding /home/vmw19/Code/SDGKU/user_crud_fe/venv
+[Info  - 12:21:51 AM] (2079) Auto-excluding /home/vmw19/mynewrepo/venv
+[Info  - 12:21:51 AM] (2079) Auto-excluding /home/vmw19/venv
+[Info  - 12:21:51 AM] (2079) Found 13 source files

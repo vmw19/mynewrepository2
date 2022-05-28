@@ -1,0 +1,18 @@
+Visual Studio Code (1.67.2, wsl, desktop)
+Jupyter Extension Version: 2022.4.1021342353.
+Python Extension Version: 2022.6.2.
+Workspace folder /home/vmw19/mynewrepo
+info 2:4:33.600: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 2:4:34.355: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 2:4:34.614: Activation Commands received source /home/vmw19/mynewrepo/venv/bin/activate for shell bash
+info 2:4:34.650: Process Execution: > ~/mynewrepo/venv/bin/python -m pip list
+> ~/mynewrepo/venv/bin/python -m pip list
+info 18:37:35.477: Shutting down notebooks for 7c4f2e9e-620e-4f60-b8fa-99171f9e43de
+info 18:37:35.478: Disposing HostJupyterExecution b3187afd-db3d-4090-b7b2-54311b52b09f
+info 18:37:35.478: Disposing super HostJupyterExecution b3187afd-db3d-4090-b7b2-54311b52b09f
+info 18:37:35.481: Disposing HostJupyterExecution b3187afd-db3d-4090-b7b2-54311b52b09f
+info 18:37:35.481: Finished disposing HostJupyterExecution  b3187afd-db3d-4090-b7b2-54311b52b09f
+info 18:37:35.491: Cleaning up server cache b3187afd-db3d-4090-b7b2-54311b52b09f
+info 18:37:35.491: Finished disposing HostJupyterExecution  b3187afd-db3d-4090-b7b2-54311b52b09f

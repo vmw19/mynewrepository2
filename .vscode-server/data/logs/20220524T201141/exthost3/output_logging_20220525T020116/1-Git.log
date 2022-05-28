@@ -1,0 +1,87 @@
+[2022-05-25T06:01:18.495Z] Validating found git in: git
+[2022-05-25T06:01:18.520Z] Using git 2.25.1 from git
+[2022-05-25T06:01:18.529Z] > git rev-parse --show-toplevel [3ms]
+[2022-05-25T06:01:18.529Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:01:18.542Z] > git rev-parse --show-toplevel [7ms]
+[2022-05-25T06:01:18.542Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:01:18.557Z] > git rev-parse --show-toplevel [12ms]
+[2022-05-25T06:01:18.557Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:02:55.995Z] > git rev-parse --show-toplevel [4ms]
+[2022-05-25T06:02:55.995Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:02:56.406Z] > git rev-parse --show-toplevel [0ms]
+[2022-05-25T06:02:56.406Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:03:20.900Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-25T06:03:20.900Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:03:23.235Z] > git rev-parse --show-toplevel [0ms]
+[2022-05-25T06:03:23.235Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:03:43.086Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-25T06:03:43.086Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:03:45.652Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-25T06:03:45.652Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:03:50.486Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-25T06:03:50.486Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:03:52.306Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-25T06:03:52.306Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:03:57.136Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-25T06:03:57.136Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:03:59.507Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-25T06:03:59.507Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:04:00.568Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-25T06:04:00.568Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:04:03.472Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-25T06:04:03.472Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:04:07.696Z] > git rev-parse --show-toplevel [0ms]
+[2022-05-25T06:04:07.696Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:04:33.556Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-25T06:04:33.557Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:04:34.356Z] > git rev-parse --show-toplevel [213ms]
+[2022-05-25T06:04:34.357Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:04:36.161Z] > git rev-parse --show-toplevel [2ms]
+[2022-05-25T06:04:36.161Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-05-25T06:05:05.342Z] > git rev-parse --show-toplevel [1ms]
+[2022-05-25T06:05:05.346Z] > git rev-parse --git-dir --git-common-dir [1ms]
+[2022-05-25T06:05:05.351Z] Open repository: /home/vmw19/mynewrepo
+[2022-05-25T06:05:05.357Z] > git status -z -uall [1ms]
+[2022-05-25T06:05:05.361Z] > git symbolic-ref --short HEAD [0ms]
+[2022-05-25T06:05:05.366Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-05-25T06:05:05.372Z] > git remote --verbose [0ms]
+[2022-05-25T06:05:05.373Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-05-25T06:05:05.378Z] > git config --get commit.template [1ms]
+[2022-05-25T06:05:05.678Z] > git show --textconv :.gitignore [4ms]
+[2022-05-25T06:05:05.678Z] > git ls-files --stage -- /home/vmw19/mynewrepo/.gitignore [1ms]
+[2022-05-25T06:05:05.893Z] > git check-ignore -v -z --stdin [0ms]
+[2022-05-25T06:17:15.594Z] > git status -z -uall [1ms]
+[2022-05-25T06:17:15.599Z] > git symbolic-ref --short HEAD [1ms]
+[2022-05-25T06:17:15.604Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-05-25T06:17:15.610Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-05-25T06:17:15.610Z] > git remote --verbose [1ms]
+[2022-05-25T06:17:15.615Z] > git config --get commit.template [0ms]
+[2022-05-25T06:17:15.625Z] > git ls-files --stage -- /home/vmw19/mynewrepo/.gitignore [1ms]
+[2022-05-25T06:17:15.630Z] > git cat-file -s f73cde9d9c8e3a6dc3937a046abcaadcb95ef936 [1ms]
+[2022-05-25T06:17:15.644Z] > git show --textconv :.gitignore [1ms]
+[2022-05-25T06:17:20.622Z] > git status -z -uall [1ms]
+[2022-05-25T06:17:20.625Z] > git symbolic-ref --short HEAD [0ms]
+[2022-05-25T06:17:20.629Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-05-25T06:17:20.634Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+[2022-05-25T06:17:20.635Z] > git remote --verbose [1ms]
+[2022-05-25T06:17:20.638Z] > git config --get commit.template [0ms]
+[2022-05-25T22:19:50.233Z] > git show --textconv :app/__init__.py [4ms]
+[2022-05-25T22:19:50.233Z] > git ls-files --stage -- /home/vmw19/mynewrepo/app/__init__.py [1ms]
+[2022-05-25T22:19:50.238Z] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+[2022-05-25T22:19:51.064Z] > git show --textconv :app/run.py [4ms]
+[2022-05-25T22:19:51.064Z] > git ls-files --stage -- /home/vmw19/mynewrepo/app/run.py [1ms]
+[2022-05-25T22:19:51.078Z] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+[2022-05-25T22:19:52.172Z] > git check-ignore -v -z --stdin [1ms]
+[2022-05-25T22:19:53.150Z] > git check-ignore -v -z --stdin [1ms]
+[2022-05-25T22:19:54.592Z] > git show --textconv :venv/bin/activate [12ms]
+[2022-05-25T22:19:54.595Z] > git ls-files --stage -- /home/vmw19/mynewrepo/venv/bin/activate [6ms]
+[2022-05-25T22:19:58.443Z] > git show --textconv :venv/bin/activate.fish [5ms]
+[2022-05-25T22:19:58.444Z] > git ls-files --stage -- /home/vmw19/mynewrepo/venv/bin/activate.fish [2ms]
+[2022-05-25T22:20:00.140Z] > git show --textconv :venv/bin/activate.csh [7ms]
+[2022-05-25T22:20:00.140Z] > git ls-files --stage -- /home/vmw19/mynewrepo/venv/bin/activate.csh [1ms]
+[2022-05-25T22:20:02.619Z] > git show --textconv :README.md [100ms]
+[2022-05-25T22:20:02.619Z] > git ls-files --stage -- /home/vmw19/mynewrepo/README.md [95ms]
+[2022-05-25T22:20:02.646Z] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [23ms]
+[2022-05-25T22:20:03.435Z] > git show --textconv :.gitignore [7ms]
+[2022-05-25T22:20:03.439Z] > git ls-files --stage -- /home/vmw19/mynewrepo/.gitignore [7ms]
+[2022-05-25T22:20:03.447Z] > git cat-file -s f73cde9d9c8e3a6dc3937a046abcaadcb95ef936 [0ms]

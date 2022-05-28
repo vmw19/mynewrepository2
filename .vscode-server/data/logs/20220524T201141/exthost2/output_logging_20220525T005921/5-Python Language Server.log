@@ -1,0 +1,17 @@
+[Info  - 1:00:22 AM] (21517) Pylance language server 2022.5.2 (pyright 0577bc22) starting
+[Info  - 1:00:22 AM] (21517) Server root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist
+[Info  - 1:00:23 AM] (21517) No configuration file found.
+[Info  - 1:00:23 AM] (21517) No pyproject.toml file found.
+[Info  - 1:00:23 AM] (21517) Setting pythonPath for service "FSDI_111": "/mnt/c/Users/ALWAY/FSDI_111/venv/bin/python"
+[Warn  - 1:00:23 AM] (21517) stubPath /mnt/c/Users/ALWAY/FSDI_111/typings is not a valid directory.
+[Info  - 1:00:23 AM] (21517) Assuming Python version 3.8
+[Info  - 1:00:23 AM] (21517) Assuming Python platform Linux
+[Info  - 1:00:23 AM] (21517) Searching for source files
+[Info  - 1:00:23 AM] (21517) Auto-excluding /mnt/c/Users/ALWAY/FSDI_111/venv
+[Info  - 1:00:23 AM] (21517) Found 3 source files
+[Info  - 1:00:23 AM] (21517) Background analysis(1) root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist
+[Info  - 1:00:23 AM] (21517) Background analysis(1) started
+[Info  - 6:09:08 PM] (21517) Indexer background runner(2) root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist (index)
+[Info  - 6:09:08 PM] (21517) Indexing(2) started
+[Info  - 6:09:10 PM] (21517) [IDX(2)] Long operation: index libraries /mnt/c/Users/ALWAY/FSDI_111 (2285ms)
+[Info  - 6:09:10 PM] (21517) Indexer done(2). indexed 432 files

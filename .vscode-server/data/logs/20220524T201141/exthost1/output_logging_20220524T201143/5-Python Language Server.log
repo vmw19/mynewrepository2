@@ -1,0 +1,22 @@
+[Info  - 1:00:23 AM] (21526) Pylance language server 2022.5.2 (pyright 0577bc22) starting
+[Info  - 1:00:23 AM] (21526) Server root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist
+[Info  - 1:00:23 AM] (21526) No configuration file found.
+[Info  - 1:00:23 AM] (21526) No pyproject.toml file found.
+[Info  - 1:00:23 AM] (21526) Setting pythonPath for service "user_crud": "/home/vmw19/Code/SDGKU/user_crud/venv/bin/python"
+[Warn  - 1:00:23 AM] (21526) stubPath /home/vmw19/Code/SDGKU/user_crud/typings is not a valid directory.
+[Info  - 1:00:23 AM] (21526) Assuming Python version 3.8
+[Info  - 1:00:23 AM] (21526) Assuming Python platform Linux
+[Info  - 1:00:23 AM] (21526) Searching for source files
+[Info  - 1:00:23 AM] (21526) Auto-excluding /home/vmw19/Code/SDGKU/user_crud/venv
+[Info  - 1:00:23 AM] (21526) Found 5 source files
+[Info  - 1:00:23 AM] (21526) Background analysis(1) root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist
+[Info  - 1:00:23 AM] (21526) Background analysis(1) started
+[Info  - 1:00:23 AM] (21526) Indexer background runner(2) root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist (index)
+[Info  - 1:00:23 AM] (21526) Indexing(2) started
+[Info  - 1:00:24 AM] (21526) Indexer done(2). indexed 432 files
+[Info  - 8:12:08 PM] (21526) Searching for source files
+[Info  - 8:12:08 PM] (21526) Auto-excluding /home/vmw19/Code/SDGKU/user_crud/venv
+[Info  - 8:12:08 PM] (21526) Found 6 source files
+[Info  - 8:16:46 PM] (21526) Searching for source files
+[Info  - 8:16:46 PM] (21526) Auto-excluding /home/vmw19/Code/SDGKU/user_crud/venv
+[Info  - 8:16:46 PM] (21526) Found 7 source files

@@ -1,0 +1,25 @@
+[Info  - 9:38:49 PM] (23017) Pylance language server 2022.5.2 (pyright 0577bc22) starting
+[Info  - 9:38:49 PM] (23017) Server root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist
+[Info  - 9:38:49 PM] (23017) No configuration file found.
+[Info  - 9:38:49 PM] (23017) No pyproject.toml file found.
+[Info  - 9:38:49 PM] (23017) Setting pythonPath for service "user_crud_fe": "/home/vmw19/Code/SDGKU/user_crud_fe/venv/bin/python"
+[Warn  - 9:38:49 PM] (23017) stubPath /home/vmw19/Code/SDGKU/user_crud_fe/typings is not a valid directory.
+[Info  - 9:38:49 PM] (23017) Assuming Python version 3.8
+[Info  - 9:38:49 PM] (23017) Assuming Python platform Linux
+[Info  - 9:38:50 PM] (23017) Searching for source files
+[Info  - 9:38:50 PM] (23017) Auto-excluding /home/vmw19/Code/SDGKU/user_crud_fe/venv
+[Info  - 9:38:50 PM] (23017) Found 2 source files
+[Info  - 9:38:50 PM] (23017) Background analysis(1) root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist
+[Info  - 9:38:50 PM] (23017) Background analysis(1) started
+[Info  - 9:38:50 PM] (23017) Indexer background runner(2) root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist (index)
+[Info  - 9:38:50 PM] (23017) Indexing(2) started
+[Info  - 9:38:51 PM] (23017) Indexer done(2). indexed 432 files
+[Info  - 9:50:30 PM] (23017) Searching for source files
+[Info  - 9:50:30 PM] (23017) Auto-excluding /home/vmw19/Code/SDGKU/user_crud_fe/venv
+[Info  - 9:50:30 PM] (23017) Found 2 source files
+[Info  - 10:30:31 PM] (23017) Searching for source files
+[Info  - 10:30:31 PM] (23017) Auto-excluding /home/vmw19/Code/SDGKU/user_crud_fe/venv
+[Info  - 10:30:31 PM] (23017) Found 2 source files
+[Info  - 10:40:31 PM] (23017) Indexer background runner(3) root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist (refresh)
+[Info  - 10:40:31 PM] (23017) Indexing(3) started
+[Info  - 10:40:32 PM] (23017) Indexer done(3). indexed 437 files

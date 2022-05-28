@@ -1,0 +1,18 @@
+Visual Studio Code (1.67.2, wsl, desktop)
+Jupyter Extension Version: 2022.4.1021342353.
+Python Extension Version: 2022.6.2.
+Workspace folder /home/vmw19/Code/SDGKU/user_crud
+info 1:0:21.699: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 1:0:22.497: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 1:0:22.766: Activation Commands received source /home/vmw19/Code/SDGKU/user_crud/venv/bin/activate for shell bash
+info 1:0:22.806: Process Execution: > ~/Code/SDGKU/user_crud/venv/bin/python -m pip list
+> ~/Code/SDGKU/user_crud/venv/bin/python -m pip list
+info 23:45:15.430: Shutting down notebooks for 877290af-4717-409f-b003-dacfd4a2b24f
+info 23:45:15.432: Disposing HostJupyterExecution 1baa3660-697c-424a-86ca-b5303e16dfb5
+info 23:45:15.432: Disposing super HostJupyterExecution 1baa3660-697c-424a-86ca-b5303e16dfb5
+info 23:45:15.441: Disposing HostJupyterExecution 1baa3660-697c-424a-86ca-b5303e16dfb5
+info 23:45:15.441: Finished disposing HostJupyterExecution  1baa3660-697c-424a-86ca-b5303e16dfb5
+info 23:45:15.451: Cleaning up server cache 1baa3660-697c-424a-86ca-b5303e16dfb5
+info 23:45:15.451: Finished disposing HostJupyterExecution  1baa3660-697c-424a-86ca-b5303e16dfb5

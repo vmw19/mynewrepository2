@@ -1,0 +1,16 @@
+[2022-05-22 14:38:36.269] [remoteagent] [info] Extension host agent started.
+[2022-05-22 14:38:36.340] [remoteagent] [info] [127.0.0.1][1131baf9][ManagementConnection] New connection established.
+[2022-05-22 14:38:36.513] [remoteagent] [info] [127.0.0.1][d1ba8970][ExtensionHostConnection] New connection established.
+[2022-05-22 14:38:36.530] [remoteagent] [info] [127.0.0.1][d1ba8970][ExtensionHostConnection] <5589> Launched Extension Host Process.
+[2022-05-22 21:09:03.443] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-05-23 01:17:13.432] [remoteagent] [info] [127.0.0.1][1131baf9][ManagementConnection] The client has reconnected.
+[2022-05-23 01:17:13.541] [remoteagent] [info] [127.0.0.1][d1ba8970][ExtensionHostConnection] The client has reconnected.
+[2022-05-23 05:51:34.740] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-05-23 06:30:04.343] [remoteagent] [info] [127.0.0.1][d1ba8970][ExtensionHostConnection] The client has reconnected.
+[2022-05-23 06:30:04.414] [remoteagent] [info] [127.0.0.1][1131baf9][ManagementConnection] The client has reconnected.
+[2022-05-23 13:46:35.348] [remoteagent] [info] [127.0.0.1][1131baf9][ManagementConnection] The client has reconnected.
+[2022-05-23 13:46:35.430] [remoteagent] [info] [127.0.0.1][d1ba8970][ExtensionHostConnection] The client has reconnected.
+[2022-05-24 18:07:57.326] [remoteagent] [info] [127.0.0.1][d1ba8970][ExtensionHostConnection] The client has reconnected.
+[2022-05-24 18:07:57.402] [remoteagent] [info] [127.0.0.1][1131baf9][ManagementConnection] The client has reconnected.
+[2022-05-24 19:58:33.050] [remoteagent] [info] [127.0.0.1][1131baf9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-05-24 19:58:33.070] [remoteagent] [info] [127.0.0.1][d1ba8970][ExtensionHostConnection] <5589> Extension Host Process exited with code: 0, signal: null.

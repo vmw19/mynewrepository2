@@ -1,0 +1,6 @@
+[2022-05-27 23:09:05.733] [remoteagent] [info] Extension host agent started.
+[2022-05-27 23:09:05.909] [remoteagent] [info] [127.0.0.1][0b5015ae][ManagementConnection] New connection established.
+[2022-05-27 23:09:06.141] [remoteagent] [info] [127.0.0.1][f7270a66][ExtensionHostConnection] New connection established.
+[2022-05-27 23:09:06.189] [remoteagent] [info] [127.0.0.1][f7270a66][ExtensionHostConnection] <309> Launched Extension Host Process.
+[2022-05-27 23:09:06.360] [remoteagent] [info] Deleted from disk ms-toolsai.jupyter-renderers /home/vmw19/.vscode-server/extensions/ms-toolsai.jupyter-renderers-1.0.6
+[2022-05-27 23:09:07.302] [remoteagent] [info] Deleted from disk ms-python.vscode-pylance /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2

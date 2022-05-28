@@ -1,0 +1,18 @@
+Visual Studio Code (1.67.2, wsl, desktop)
+Jupyter Extension Version: 2022.4.1021342353.
+Python Extension Version: 2022.6.2.
+Workspace folder /mnt/c/Users/ALWAY/FSDI_111
+info 1:0:21.645: ZMQ install verified.
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+info 1:0:22.434: Experiment status for python is {"enabled":true,"optInto":[],"optOutFrom":[]}
+info 1:0:22.714: Activation Commands received source /mnt/c/Users/ALWAY/FSDI_111/venv/bin/activate for shell bash
+info 1:0:22.791: Process Execution: > /mnt/c/Users/ALWAY/FSDI_111/venv/bin/python -m pip list
+> /mnt/c/Users/ALWAY/FSDI_111/venv/bin/python -m pip list
+info 18:11:57.554: Shutting down notebooks for c892a42a-99d5-445f-b930-66e08cde5a60
+info 18:11:57.554: Disposing HostJupyterExecution 8970f02b-908e-4e94-8e87-182c6e4671c1
+info 18:11:57.554: Disposing super HostJupyterExecution 8970f02b-908e-4e94-8e87-182c6e4671c1
+info 18:11:57.557: Disposing HostJupyterExecution 8970f02b-908e-4e94-8e87-182c6e4671c1
+info 18:11:57.558: Finished disposing HostJupyterExecution  8970f02b-908e-4e94-8e87-182c6e4671c1
+info 18:11:57.588: Cleaning up server cache 8970f02b-908e-4e94-8e87-182c6e4671c1
+info 18:11:57.589: Finished disposing HostJupyterExecution  8970f02b-908e-4e94-8e87-182c6e4671c1

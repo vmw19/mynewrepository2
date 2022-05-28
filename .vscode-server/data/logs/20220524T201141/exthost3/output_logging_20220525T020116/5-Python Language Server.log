@@ -1,0 +1,16 @@
+[Info  - 2:04:34 AM] (21736) Pylance language server 2022.5.2 (pyright 0577bc22) starting
+[Info  - 2:04:34 AM] (21736) Server root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist
+[Info  - 2:04:34 AM] (21736) No configuration file found.
+[Info  - 2:04:34 AM] (21736) No pyproject.toml file found.
+[Info  - 2:04:34 AM] (21736) Setting pythonPath for service "mynewrepo": "/home/vmw19/mynewrepo/venv/bin/python"
+[Warn  - 2:04:34 AM] (21736) stubPath /home/vmw19/mynewrepo/typings is not a valid directory.
+[Info  - 2:04:34 AM] (21736) Assuming Python version 3.8
+[Info  - 2:04:34 AM] (21736) Assuming Python platform Linux
+[Info  - 2:04:34 AM] (21736) Searching for source files
+[Info  - 2:04:35 AM] (21736) Auto-excluding /home/vmw19/mynewrepo/venv
+[Info  - 2:04:35 AM] (21736) Found 2 source files
+[Info  - 2:04:35 AM] (21736) Background analysis(1) root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist
+[Info  - 2:04:35 AM] (21736) Background analysis(1) started
+[Info  - 2:04:35 AM] (21736) Indexer background runner(2) root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.2/dist (index)
+[Info  - 2:04:35 AM] (21736) Indexing(2) started
+[Info  - 2:04:35 AM] (21736) Indexer done(2). indexed 432 files

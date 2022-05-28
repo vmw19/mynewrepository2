@@ -1,0 +1,32 @@
+[Info  - 12:03:45 AM] (2079) Pylance language server 2022.5.3 (pyright 73c82fab) starting
+[Info  - 12:03:45 AM] (2079) Server root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.3/dist
+Notebook support: Legacy
+[Info  - 12:03:45 AM] (2079) No configuration file found.
+[Info  - 12:03:45 AM] (2079) No pyproject.toml file found.
+[Info  - 12:03:45 AM] (2079) Setting pythonPath for service "vmw19": "/home/vmw19/mynewrepo/venv/bin/python"
+[Warn  - 12:03:45 AM] (2079) stubPath /home/vmw19/typings is not a valid directory.
+[Info  - 12:03:45 AM] (2079) Assuming Python version 3.8
+[Info  - 12:03:45 AM] (2079) Assuming Python platform Linux
+[Info  - 12:03:45 AM] (2079) Searching for source files
+[Info  - 12:03:45 AM] (2079) Auto-excluding /home/vmw19/Code/SDGKU/user_crud/venv
+[Info  - 12:03:45 AM] (2079) Auto-excluding /home/vmw19/Code/SDGKU/user_crud_fe/venv
+[Info  - 12:03:45 AM] (2079) Auto-excluding /home/vmw19/mynewrepo/venv
+[Info  - 12:03:45 AM] (2079) Auto-excluding /home/vmw19/venv
+[Info  - 12:03:45 AM] (2079) Found 13 source files
+[Info  - 12:03:45 AM] (2079) Background analysis(1) root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.3/dist
+[Info  - 12:03:45 AM] (2079) Background analysis(1) started
+[Info  - 12:03:46 AM] (2079) Indexer background runner(2) root directory: /home/vmw19/.vscode-server/extensions/ms-python.vscode-pylance-2022.5.3/dist (index)
+[Info  - 12:03:46 AM] (2079) Indexing(2) started
+[Info  - 12:03:46 AM] (2079) Indexer done(2). indexed 432 files
+[Info  - 12:07:38 AM] (2079) Searching for source files
+[Info  - 12:07:38 AM] (2079) Auto-excluding /home/vmw19/Code/SDGKU/user_crud/venv
+[Info  - 12:07:38 AM] (2079) Auto-excluding /home/vmw19/Code/SDGKU/user_crud_fe/venv
+[Info  - 12:07:38 AM] (2079) Auto-excluding /home/vmw19/mynewrepo/venv
+[Info  - 12:07:38 AM] (2079) Auto-excluding /home/vmw19/venv
+[Info  - 12:07:38 AM] (2079) Found 13 source files
+[Info  - 12:13:03 AM] (2079) Searching for source files
+[Info  - 12:13:03 AM] (2079) Auto-excluding /home/vmw19/Code/SDGKU/user_crud/venv
+[Info  - 12:13:03 AM] (2079) Auto-excluding /home/vmw19/Code/SDGKU/user_crud_fe/venv
+[Info  - 12:13:03 AM] (2079) Auto-excluding /home/vmw19/mynewrepo/venv
+[Info  - 12:13:03 AM] (2079) Auto-excluding /home/vmw19/venv
+[Info  - 12:13:03 AM] (2079) Found 13 source files

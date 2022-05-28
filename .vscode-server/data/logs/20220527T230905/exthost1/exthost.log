@@ -8,3 +8,120 @@
 [2022-05-27 23:09:07.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
 [2022-05-27 23:09:07.395] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
 [2022-05-27 23:09:07.413] [exthost] [info] Eager extensions activated
+[2022-05-28 00:03:43.454] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-28 00:03:43.740] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-28 00:03:44.698] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-05-28 00:03:44.772] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-28 00:10:16.986] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-28 00:10:16.986] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127818)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127767)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:114127)
+	at G (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+	at c (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+	at Object.t.map (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+	at Object.asDocumentSymbols (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+	at /home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+	at async r.provideDocumentSymbols (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-28 00:10:17.670] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-28 00:10:17.670] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127818)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127767)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:114127)
+	at G (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+	at c (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+	at Object.t.map (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+	at Object.asDocumentSymbols (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+	at /home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+	at async r.provideDocumentSymbols (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-28 00:10:18.453] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-28 00:10:18.453] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127818)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127767)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:114127)
+	at G (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+	at c (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+	at Object.t.map (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+	at Object.asDocumentSymbols (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+	at /home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+	at async r.provideDocumentSymbols (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-28 00:10:19.828] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-28 00:10:19.828] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127818)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127767)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:114127)
+	at G (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+	at c (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+	at Object.t.map (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+	at Object.asDocumentSymbols (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+	at /home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+	at async r.provideDocumentSymbols (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-28 00:10:20.580] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-28 00:10:20.580] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127818)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127767)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:114127)
+	at G (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+	at c (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+	at Object.t.map (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+	at Object.asDocumentSymbols (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+	at /home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+	at async r.provideDocumentSymbols (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-28 00:10:21.365] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-28 00:10:21.365] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127818)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127767)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:114127)
+	at G (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+	at c (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+	at Object.t.map (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+	at Object.asDocumentSymbols (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+	at /home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+	at async r.provideDocumentSymbols (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-28 00:10:23.320] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-28 00:10:23.320] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127818)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127767)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:114127)
+	at G (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+	at c (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+	at Object.t.map (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+	at Object.asDocumentSymbols (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+	at /home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+	at async r.provideDocumentSymbols (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-28 00:10:24.758] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-28 00:10:24.758] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127818)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127767)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:114127)
+	at G (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+	at c (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+	at Object.t.map (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+	at Object.asDocumentSymbols (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+	at /home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+	at async r.provideDocumentSymbols (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-28 00:10:26.296] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-28 00:10:26.296] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127818)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127767)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:114127)
+	at G (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+	at c (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+	at Object.t.map (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+	at Object.asDocumentSymbols (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+	at /home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+	at async r.provideDocumentSymbols (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-28 00:10:29.303] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-28 00:10:29.303] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127818)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:127767)
+	at new s (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:76:114127)
+	at G (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2277418)
+	at c (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314584)
+	at Object.t.map (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2314670)
+	at Object.asDocumentSymbols (/home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2285236)
+	at /home/vmw19/.vscode-server/extensions/ms-python.python-2022.6.2/out/client/extension.js:2:2223778
+	at async r.provideDocumentSymbols (/home/vmw19/.vscode-server/bin/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/out/vs/workbench/api/node/extensionHostProcess.js:83:97721)
+[2022-05-28 00:12:08.854] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-05-28 00:12:12.384] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-05-28 00:12:25.972] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
